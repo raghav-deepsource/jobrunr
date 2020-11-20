@@ -1,0 +1,11 @@
+
+version = 1
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+  [analyzers.meta]
+  gradle_modules = [
+  ]
+  java_version = 8
