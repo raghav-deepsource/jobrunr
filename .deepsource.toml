@@ -8,4 +8,4 @@ enabled = true
   [analyzers.meta]
   gradle_modules = [
   ]
-  java_version = 8
+  java_version = "8"
